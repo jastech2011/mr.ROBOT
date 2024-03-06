@@ -15390,7 +15390,7 @@ html.rd-navbar-fixed-linked .page {
   width: auto;
   height: auto;
   max-width: 190px;
-  max-height: 190px;
+  max-height: 110px;
 }
 
 @media (min-width: 1400px) {
